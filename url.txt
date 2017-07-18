@@ -1,0 +1,14 @@
+## AD 
+https://raw.githubusercontent.com/vokins/yhosts/master/hosts
+
+## FQ
+https://blog.my-eclipse.cn/hosts.txt
+
+# OR
+
+https://raw.githubusercontent.com/racaljk/hosts/master/hosts
+#Play
+https://raw.githubusercontent.com/sy618/hosts/master/p
+
+# OR
+https://raw.githubusercontent.com/sy618/hosts/master/FQ
