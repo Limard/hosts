@@ -12,3 +12,6 @@ https://raw.githubusercontent.com/sy618/hosts/master/p
 
 # OR
 https://raw.githubusercontent.com/sy618/hosts/master/FQ
+
+# 自用
+https://raw.githubusercontent.com/Limard/hosts/master/hosts
